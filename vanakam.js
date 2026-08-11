@@ -6,5 +6,5 @@ console.log("Happy coding!");
 
 
 // new branch rav
-console.log("Vanakam! Welcome to the Vanakam.js library.");
+
 
